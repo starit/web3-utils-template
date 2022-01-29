@@ -28,6 +28,6 @@ const tokensMainnet = {
 }
 
 module.exports = {
-  contractsMainnet,
+  contracts: contractsMainnet,
   tokens: tokensMainnet
 }
